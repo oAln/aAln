@@ -8,7 +8,7 @@
 
 ## ⚡ Technologies
 
-![Angular](https://img.shields.io/badge/-Angular-black?style=flat-square&logo=javascript)
+![Angular](https://img.shields.io/badge/-Angular-black?style=flat-square&logo=angular)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
