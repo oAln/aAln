@@ -1,47 +1,34 @@
-# oAln
-Full-Stack Web Developer | Expertise in HTML5, CSS3, JavaScript, Angular, Node.js, React, React Native, NestJS, SQL, MongoDB, WebRTC, &amp; Web Accessibility
-
-
 <h1>Hi There! <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
-
 
  I'm **Abhinav Kumar Pandey** working at [Intellitek.ai](https://intellitek.ai/). I specialize in modern web technologies such as HTML5, CSS3, JavaScript, Angular, Node.js, ReactJS, React Native, NestJS, TypeScript, Bootstrap, and SASS. I also have expertise in SQL, MongoDB, WebRTC, and Web Accessibility. With strong debugging skills and a passion for continuous learning, I consistently deliver high-quality projects on time. My problem-solving skills, positive mindset, and collaborative approach contribute to the success of every project.
 
+[![Linkedin Badge](https://img.shields.io/badge/-abhinav-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abhinav/)](https://www.linkedin.com/in/abhi9v-pandey/)
+[![Gmail Badge](https://img.shields.io/badge/-abhi9v.pandey@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:abhi9v.pandey@gmail.com)](mailto:abhi9v.pandey@gmail.com)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-181717?style=flat-square&logo=github)](https://oaln.github.io/portfolio/)
+
 ## ⚡ Technologies
 
-These are some of the major technologies that I use or have worked on in the past:
+![Angular](https://img.shields.io/badge/-Angular-black?style=flat-square&logo=javascript)
+![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Core Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=Redis)
+![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=flat-square&logo=elasticsearch)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
+![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-232F7E?style=flat-square&logo=microsoft-azure)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
-**Programming Languages**
-
-<img alt="JS" title="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png">|<img alt="Typescript" title="Typescript" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png">|<img title="Go" alt="Go" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/go/go.png">|<img title="C" alt="C" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/c/c.png">
-|--|--|--|--|--|
-
-**Libraries and Frameworks**
-
-<img title="Angular" alt="Angular" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />|<img alt="Node.js" title="Node.js" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png">|<img alt="React" title="React" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png">|<img title="Docker" alt="Docker" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/docker/docker.png">
-|--|--|--|--|--|
-<img title="jQuery" alt="jQuery" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/jquery/jquery.png">|<img title="GrahpQL" alt="GraphQL" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/graphql/graphql.png">|<img title="Selenium" alt="Selenium" width="40px" src="https://img.icons8.com/color/48/000000/selenium-test-automation.png">
-
-**Infrastructure**
-
-<img title="AWS" alt="AWS" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/aws/aws.png">|<img title="Kubernetes" alt="Kubernetes" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/kubernetes/kubernetes.png">
-|--|--|--|
-
-**Databases**
-
-<img title="SQL" alt="SQL" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/sql/sql.png">|<img title="MongoDB" alt="MongoDB" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/mongodb/mongodb.png">|<img title="ElasticSearch" alt="ElasticSearch" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/elasticsearch/elasticsearch.png"> <br>
-|--|--|--|
-
-**Tools**
-
-<img title="Ubuntu" alt="Ubuntu" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/ubuntu/ubuntu.png">||<img title="VS Code" alt="VS Code" width="40px" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png">|<img title="git" alt="git" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png">
-|--|--|--|--|--|
-<br>
-
-## Let's Connect :handshake:
-
-<a href="https://www.linkedin.com/in/abhi9v-pandey"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" width="40"></a>|<a href="mailto:abhi9v.pandey@gmail.com"><img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" width="40"></a>
-|--|--|
-
+<!-- ![Github Stats](https://github-readme-stats.vercel.app/api?username=oAln&count_private=true&show_icons=true&include_all_commits=true) -->
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=oAln.oAln)
