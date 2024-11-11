@@ -2,7 +2,7 @@
 
  I'm **Abhinav Kumar Pandey** working at [Intellitek.ai](https://intellitek.ai/). I specialize in modern web technologies such as HTML5, CSS3, JavaScript, Angular, Node.js, ReactJS, React Native, NestJS, TypeScript, Bootstrap, and SASS. I also have expertise in SQL, MongoDB, WebRTC, and Web Accessibility. With strong debugging skills and a passion for continuous learning, I consistently deliver high-quality projects on time. My problem-solving skills, positive mindset, and collaborative approach contribute to the success of every project.
 
-[![Linkedin Badge](https://img.shields.io/badge/-abhinav-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abhinav/)](https://www.linkedin.com/in/abhi9v-pandey/)
+[![Linkedin Badge](https://img.shields.io/badge/-Abhinav_Pandey-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abhinav/)](https://www.linkedin.com/in/abhi9v-pandey/)
 [![Gmail Badge](https://img.shields.io/badge/-abhi9v.pandey@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:abhi9v.pandey@gmail.com)](mailto:abhi9v.pandey@gmail.com)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-181717?style=flat-square&logo=github)](https://oaln.github.io/portfolio/)
 
